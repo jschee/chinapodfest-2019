@@ -11,3 +11,8 @@ sass:
 # markdown: kramdown
 plugins:
   - jekyll-feed
+  - jekyll-multiple-languages-plugin
+
+languages:  ['en', 'cn']
+language_default:   'en'
+exclude_from_localizations: ["javascript", "images", "css"]
