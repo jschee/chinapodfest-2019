@@ -1,7 +1,8 @@
 title: China Podfest 2019
 description: "China Podfest 2019. Shanghai, China – September 21, 2019"
+url: ""
 
-destination: _site
+destination: public
 exclude: [public, Rakefile, README.md]
 
 sass:
