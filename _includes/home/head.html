@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html class="{% if page.class %}{{ page.class }} {% endif %}">
+  <!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
+  <!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
+  <!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><!-- <html class="no-js" lang="en"> --><!--<![endif]-->
+  <head>
+
+    <title>{{ page.title }}</title>
+    <meta name="title" content="{{ page.title }}">
+    <meta name="description" content='{{ page.excerpt | "China Podfest 2019 – Shanghai, China"}}'>
+    <meta name="keywords" content="China Podfest 2019 Shanghai China Podcast" />
+
+
+    <!-- facebook -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://jasonchee.me{{ page.url }}">
+    <meta property="og:title" content="{{ page.title }}">
+    <meta property="og:description" content='{{ page.excerpt | "China Podfest 2019 – Shanghai, China" }}'>
+    <meta property="og:image" content="https://jasonchee.me/assets/images/avatar.jpg">
+
+    <!-- twitter -->
+    <meta property="twitter:card" content="summary_large_image">
+    <meta property="twitter:url" content="https://jasonchee.me{{ page.url }}">
+    <meta property="twitter:title" content="{{ page.title }}">
+    <meta property="twitter:description" content='{{ page.excerpt | "China Podfest 2019 – Shanghai, China" }}'>
+    <meta property="twitter:image" content="https://jasonchee.me/assets/images/avatar.jpg">
+
+
+    <meta name="viewport" id="viewport" content="width=device-width,minimum-scale=1.0,maximum-scale=10.0,initial-scale=1.0" />
+    <meta charset="utf-8">
+
+    <link rel="stylesheet" type="text/css" href="{{ "/assets/stylesheets/style.css" | relative_url}}">
+    <link rel="shortcut icon" type="image/png" href="/assets/images/favicon-tiny.png" >
+    <script src="//instant.page/1.2.2" type="module" integrity="sha384-2xV8M5griQmzyiY3CDqh1dn4z3llDVqZDqzjzcY+jCBCk/a5fXJmuZ/40JJAPeoU"></script>
+  </head>

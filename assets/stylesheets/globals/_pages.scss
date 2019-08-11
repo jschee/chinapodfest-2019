@@ -1,0 +1,44 @@
+.media-block {
+  float: right;
+  margin-left: 0.6em;
+  width: 50%;
+  text-align: center;
+  @include media(small) {
+    float: center;
+    margin-bottom: 0.9em;
+    width: 100%;
+  }
+}
+
+.media-3-block {
+  display: flex;
+  justify-content: space-between;
+  .column {
+    width: 100%;
+  }
+  @include media(small) {
+    display: block;
+    width: 100%;
+  }
+}
+
+// Work example page ——————————————————————————————— •
+
+.hero-banner {
+  position: relative;
+  height: 220px;
+  font-family: $font-sans;
+  letter-spacing: 0.01em;
+  margin-bottom: 1em;
+  border: 1px solid #ccc;
+  width: 100%;
+  overflow: hidden;
+  .hero-desc {
+    color: #7B7B7B;
+    position: absolute;
+    bottom: 0;
+    background: white;
+    padding: 12px;
+    width: 100%;
+  }
+}
