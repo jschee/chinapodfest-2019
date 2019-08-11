@@ -5,3 +5,10 @@ navigation:
   photos: 相片集
   sponsors: 赞助商
   contact: 联系
+nav_links:
+  home: /cn
+  schedule: /cn/schedule
+  speakers: /cn/speakers
+  photos: /cn/photos
+  sponsors: /cn/sponsors
+  contact: /cn/contact

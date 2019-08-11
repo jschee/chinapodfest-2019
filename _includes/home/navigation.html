@@ -3,22 +3,22 @@
   {% if site.lang == "en" %}{{page.menu}}{% elsif site.lang == "cn" %}{{page.menucn}}{% endif %}</h3>
   <ul style="margin-left: -0.5em; text-align: left; list-style: none;">
     <li style="margin-bottom: 0.8em;">
-      <a href="#">{% t navigation.home %}</a>
+      <a href="{% t nav_links.home %}">{% t navigation.home %}</a>
     </li>
     <li style="margin-bottom: 0.8em;">
-      <a href="#">{% t navigation.schedule %}</a>
+      <a href="{% t nav_links.schedule %}">{% t navigation.schedule %}</a>
     </li>
     <li style="margin-bottom: 0.8em;">
-      <a href="#">{% t navigation.speakers %}</a>
+      <a href="{% t nav_links.speakers %}">{% t navigation.speakers %}</a>
     </li>
     <li style="margin-bottom: 0.8em;">
-      <a href="#">{% t navigation.photos %}</a>
+      <a href="{% t nav_links.photos %}">{% t navigation.photos %}</a>
     </li>
     <li style="margin-bottom: 0.8em;">
-      <a href="#">{% t navigation.sponsors %}</a>
+      <a href="{% t nav_links.sponsors %}">{% t navigation.sponsors %}</a>
     </li>
     <li style="margin-bottom: 0.8em;">
-      <a href="#">{% t navigation.contact %}</a>
+      <a href="{% t nav_links.contact %}">{% t navigation.contact %}</a>
     </li>
   </ul>
   <div style="margin-bottom: 2em;">

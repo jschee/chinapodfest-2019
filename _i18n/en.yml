@@ -5,3 +5,11 @@ navigation:
   photos: Photos
   sponsors: Sponsors
   contact: Contact
+nav_links:
+  home: /
+  schedule: /schedule
+  speakers: /speakers
+  photos: /photos
+  sponsors: /sponsors
+  contact: /contact
+

@@ -118,6 +118,10 @@ small {
   font: 1.9rem/1.2 $font-inter;
   font-size: 1.1rem;
   font-weight: 400;
+  @include media(small) {
+    font-size: 0.9rem;
+  }
+
 }
 
 
@@ -378,6 +382,15 @@ main {
   }
 }
 
+.hide-on-large {
+  @include media(large) {
+    display: none;
+  }
+  @include media(medium) {
+    display: none;
+  }
+}
+
 .show-on-mobile {
   display: none;
   @include media(small) {
@@ -607,6 +620,10 @@ main {
   }
 }
 
+.blue {
+  color: rgba(27, 156, 226, 1);
+}
+
 .avatar {
   display: none;
   @include media(small) {
@@ -630,6 +647,17 @@ body.scrolled #disappear:hover {
 
 .dib {
   display: inline-block;
+}
+
+.cta-speakers{
+  text-align: right;
+  margin-right: 1em;
+  @include media(small) {
+    width: 100%;
+    text-align: center;
+    margin-right: 0;
+    margin-bottom: 3em;
+  }
 }
 
 // MAX-WIDTH/TEXTUAL PAGES
