@@ -58,7 +58,7 @@ a {
   // text-decoration-style: double;
   font-family: $font-sans;
   color: $color-link;
-  &:hover { color: $color-link-hover; }
+  &:hover { color: rgba(27, 156, 226, 0.70); }
   &:active { color: $color-text; }
   &:focus {outline: 2px solid RGBA(250, 209, 109, 1.00);}
 }
