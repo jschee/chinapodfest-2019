@@ -665,6 +665,34 @@ body.scrolled #disappear:hover {
   display: inline-block;
 }
 
+.ts{
+  color: white;
+  text-shadow:
+   3px 3px 0 #000,
+ -1px -1px 0 #000,
+  1px -1px 0 #000,
+  -1px 1px 0 #000,
+   1px 1px 0 #000;
+}
+.ts-orange{
+  color: white;
+  text-shadow:
+   3px 3px 0 rgba(244, 75, 40, 1.00),
+ -1px -1px 0 rgba(244, 75, 40, 1.00),
+  1px -1px 0 rgba(244, 75, 40, 1.00),
+  -1px 1px 0 rgba(244, 75, 40, 1.00),
+   1px 1px 0 rgba(244, 75, 40, 1.00);
+}
+.ts-navy{
+  color: white;
+  text-shadow:
+   3px 3px 0 rgba(46, 52, 88, 1.00),
+ -1px -1px 0 rgba(46, 52, 88, 1.00),
+  1px -1px 0 rgba(46, 52, 88, 1.00),
+  -1px 1px 0 rgba(46, 52, 88, 1.00),
+   1px 1px 0 rgba(46, 52, 88, 1.00);
+}
+
 .cta-speakers{
   text-align: right;
   margin-right: 1em;
