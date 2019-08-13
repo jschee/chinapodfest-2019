@@ -499,6 +499,22 @@ main {
 }
 
 
+// Layouts ——————————————————————————————— •
+.grid-4 {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  justify-items: center;
+  grid-template-rows: auto;
+  @include media(small) {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: auto;
+    justify-items: center;
+
+  }
+}
+
+
 
 // Menu page ——————————————————————————————— •
 .menu-category {
