@@ -31,7 +31,7 @@
 
 // Base Styles ——————————————————————————————— •
 html {
-  border-top: 5px solid #039BE5;
+  border-top: 5px solid rgba(244, 75, 40, 1.00);
 }
 
 
@@ -647,6 +647,10 @@ main {
 
 .blue {
   color: rgba(27, 156, 226, 1);
+}
+
+.pomegranate {
+  color: rgba(244, 75, 40, 1.00);
 }
 
 .avatar {
