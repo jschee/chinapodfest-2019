@@ -14,7 +14,7 @@ layout: home
       <h1 class="ts" style="text-align: center; color: white">{% t home.header %}</h1>
       <!-- <h1 class="ts" style="text-align: center; color: white;">January 19, 2019</h1> -->
       <div style="text-align: center;">
-        <span href="#" class="btn-yellow-lg" style="font-size: 1em; background: crimson !important; color: white">{% t home.button %}</span>
+        <span href="#" class="btn-yellow-lg" style="font-size: 1em; color: white">{% t home.button %}</span>
       </div>
     </div>
   </div>
@@ -34,7 +34,6 @@ layout: home
       <div class="menu-2up" style="align-items: center; margin-bottom: 1em; ">
         <div class="column-left">
           <h1 style="font-weight: 800; text-align: left;">{% t home.section2 %}</h1>
-<!--           <a href="#" class="btn-yellow-lg">View all photos</a> -->
         </div>
         <div class="column-right cta-speakers hide-on-mobile">
         </div>
@@ -65,9 +64,38 @@ layout: home
       </div>
     </div>
   </section>
+  <section id="podcasts">
+    <div class="throw-dat-padding" style="padding: 2em 0">
+      <h1 style="text-align: center;">{% t home.section3 %}</h1>
+      <div class="menu-3up" style="justify-content: space-between; margin: 0 2em 0 1.5em;">
+        <div class="col-left">
+          <ul style="list-style: none;">
+            <li style="margin-bottom: 0.5em;">故事FM</li>
+            <li style="margin-bottom: 0.5em;">声东击西</li>
+            <li style="margin-bottom: 0.5em;">China Africa Project</li>
+          </ul>
+        </div>
+        <div class="col-mid">
+          <ul style="list-style: none;">
+            <li style="margin-bottom: 0.5em;">Digitally China</li>
+            <li style="margin-bottom: 0.5em;">JustPod</li>
+            <li style="margin-bottom: 0.5em;">忽左忽右</li>
+            <li style="margin-bottom: 0.5em;">Unravel</li>
+          </ul>
+        </div>
+        <div class="col-right">
+          <ul style="list-style: none;">
+            <li style="margin-bottom: 0.5em;">Podcast Brunch Club</li>
+            <li style="margin-bottom: 0.5em;">PodBean</li>
+            <li style="margin-bottom: 0.5em;">SupChina</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </section>
   <section id="sponsors">
-    <div class="throw-dat-padding" style="padding: 2em 0;">
-      <h1 style="text-align: center;">Thank you to all our Sponsors.</h1>
+    <div style="padding: 2em 0;">
+      <h1 style="text-align: center;" class="throw-dat-padding">{%t home.section4%}</h1>
       <div class="menu-3up" style="justify-content: center; align-items: center">
         <div style="text-align: center; margin-right: 5%" class="col-left">
           <img src="/assets/images/sponsor_1.jpg" style="width: 200px;" alt="">
