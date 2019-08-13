@@ -1,35 +1,46 @@
 <div class="hide-on-mobile" style="position: fixed; padding-left: 1em; top: 100px; font-size: 0.7em;">
   <h3 style="border-left: 2px solid #1B9CE2; text-align:left; padding: 0 0.8em;">
-  {% if site.lang == "en" %}{{page.menu}}{% elsif site.lang == "cn" %}{{page.menucn}}{% endif %}</h3>
+  {% if site.lang == "cn" %}{{page.cnmenu}}{% elsif site.lang == "en" %}{{page.menu}}{% endif %}</h3>
   <ul style="margin-left: -0.5em; text-align: left; list-style: none;">
     <li style="margin-bottom: 0.8em;">
       <a href="{% t nav_links.home %}">{% t navigation.home %}</a>
     </li>
     <li style="margin-bottom: 0.8em;">
-      <a href="{% t nav_links.schedule %}">{% t navigation.schedule %}</a>
+      <div style="margin-bottom: 0.8em;">{% t navigation.event %}</div>
+      <ul style="margin-left: -0.5em; text-align: left; list-style: none;">
+        <li style="margin-bottom: 0.8em"><a href="{% t nav_links.event_2 %}">{% t navigation.event_2 %}</a></li>
+        <li style=""><a href="{% t nav_links.event_1 %}">{% t navigation.event_1 %}</a></li>
+
+      </ul>
     </li>
     <li style="margin-bottom: 0.8em;">
-      <a href="{% t nav_links.speakers %}">{% t navigation.speakers %}</a>
+      <div style="margin-bottom: 0.8em;">{% t navigation.workshop %}</div>
+      <ul style="margin-left: -0.5em; text-align: left; list-style: none;">
+        <li style="margin-bottom: 0.8em;"><a href="{% t nav_links.workshop_1 %}">{% t navigation.workshop_1 %}</a></li>
+      </ul>
+    </li>
+    <li style="margin-bottom: 0.8em;">
+      <a href="{% t nav_links.about %}">{% t navigation.about %}</a>
     </li>
     <li style="margin-bottom: 0.8em;">
       <a href="{% t nav_links.photos %}">{% t navigation.photos %}</a>
     </li>
     <li style="margin-bottom: 0.8em;">
-      <a href="{% t nav_links.sponsors %}">{% t navigation.sponsors %}</a>
+      <a href="{% t nav_links.register %}">{% t navigation.register %}</a>
     </li>
     <li style="margin-bottom: 0.8em;">
       <a href="{% t nav_links.contact %}">{% t navigation.contact %}</a>
     </li>
   </ul>
-  <div style="margin-bottom: 2em;">
-    <p style="text-align: left;">Next event:</p>
+  <div style="text-align: left; margin-bottom: 2em;">
+    <p>Next event:</p>
     <a href="/" class="btn-yellow">Register Now</a>
   </div>
   <div style="text-align: left;">
     {% if site.lang == "en" %}
-    <a href="/cn" style="text-decoration: none; border-radius: 9999px; padding: 0.5em 0.8em; text-align: center; color: white; background: rgba(27, 156, 226, 1.00)">中文</a>
+    <a href="/" style="text-decoration: none; border-radius: 9999px; padding: 0.5em 0.8em; text-align: center; color: white; background: rgba(27, 156, 226, 1.00)">中文</a>
     {% elsif site.lang == "cn" %}
-    <a href="/" style="text-decoration: none; border-radius: 9999px; padding: 0.5em 0.8em; text-align: center; color: white; background: rgba(27, 156, 226, 1.00)">English</a>
+    <a href="/en" style="text-decoration: none; border-radius: 9999px; padding: 0.5em 0.8em; text-align: center; color: white; background: rgba(27, 156, 226, 1.00)">English</a>
     {% endif %}
   </div>
 </div>

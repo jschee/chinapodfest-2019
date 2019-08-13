@@ -14,6 +14,6 @@ plugins:
   - jekyll-feed
   - jekyll-multiple-languages-plugin
 
-languages:  ['en', 'cn']
-language_default:   'en'
+languages:  ['cn', 'en']
+language_default:   'cn'
 exclude_from_localizations: ["javascript", "images", "css"]

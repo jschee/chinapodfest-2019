@@ -1,15 +1,38 @@
 navigation:
   home: Home
-  schedule: Schedule
-  speakers: Speakers
+  event: Event
+  event_1: 1st Podfest China
+  event_2: 2nd Podfest China
+  workshop: Workshop
+  workshop_1: Workshop・2019.6
+  about: About
   photos: Photos
-  sponsors: Sponsors
+  register: Register
   contact: Contact
+
+home:
+  header: The Second Annual Event
+  button: Coming Soon
+  section1: China's biggest podcast festival!
+  section1-2: What is Podfest China?
+  section1-3: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Autem a distinctio, ullam iste dolorum non incidunt assumenda laudantium vitae, dicta at cum, voluptatum tenetur, repellat fuga porro laboriosam. Eius, distinctio!
+  section2: Photos
+  section3: Podcast Partners
+  section4: The First Annual Event Sponsors
+  section4-1: Presenting Sponsors
+  section4-2: Media Partners
+  section5: Follow Us
+
+
 nav_links:
-  home: /
-  schedule: /schedule
-  speakers: /speakers
-  photos: /photos
-  sponsors: /sponsors
-  contact: /contact
+  home: /en/
+  event: /en/event
+  event_1: /en/workshop-1
+  event_2: /en/workshop-2
+  workshop: /en/workshop
+  workshop_1: /en/workshop-1
+  about: /en/about
+  photos: /en/photos
+  register: /en/register
+  contact: /en/contact
 

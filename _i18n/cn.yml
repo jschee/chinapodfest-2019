@@ -1,14 +1,36 @@
 navigation:
   home: 主页
-  schedule: 时间表
-  speakers: 讲师
-  photos: 相片集
-  sponsors: 赞助商
-  contact: 联系
+  event: 年度大会
+  event_1: 第一届Podfest China
+  event_2: 第二届Podfest China
+  workshop: 工作坊
+  workshop_1: Workshop・2019.6
+  about: 关于我们
+  photos: 相册
+  register: 报名参与
+  contact: 联系我们
+
+home:
+  header: 第二届年度大会
+  button: 敬请期待
+  section1: 仅英文网页出现
+  section1-2: 什么是Podfest China？
+  section1-3: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Autem a distinctio, ullam iste dolorum non incidunt assumenda laudantium vitae, dicta at cum, voluptatum tenetur, repellat fuga porro laboriosam. Eius, distinctio!
+  section2: 相册
+  section3: 合作播客
+  section4: 第一届年会合作伙伴
+  section4-1: 赞助商
+  section4-2: 媒体合作
+  section5: 关注我们
+
 nav_links:
-  home: /cn
-  schedule: /cn/schedule
-  speakers: /cn/speakers
-  photos: /cn/photos
-  sponsors: /cn/sponsors
-  contact: /cn/contact
+  home: /
+  event: /event
+  event_1: /event-1
+  event_2: /event-2
+  workshop: /workshop
+  workshop_1: /workshop-1
+  about: /about
+  photos: /photos
+  register: /register
+  contact: /contact
