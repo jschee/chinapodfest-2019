@@ -154,18 +154,21 @@ small {
     position: absolute;
     right: 20px;
     top: 0px;
-    color: white;
+    color: rgba(46, 52, 88, 1.00);
     font-size: 2.5em;
     font-weight: 800;
+    z-index: 800;
   }
 
   .mobile-direction {
     position: absolute;
-    width: 70%;
+    width: 100vw;
     background: rgba(246, 79, 60, 0.92);
     top: 0;
     bottom: 0;
-    padding: 4.5em 0.8em;
+    right:0;
+    left: 0;
+    padding: 4.5em 0em;
     overflow: scroll;
     .mobile-header {
       background-color: #f1f3f4;
