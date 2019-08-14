@@ -8,7 +8,7 @@
           China Podfest 2019
           {% if site.lang == "en" %}
           <a href="/" style="text-decoration: none; border-radius: 9999px; padding: 0.2em 0.8em; text-align: center; color: white; background: rgba(244, 75, 40, 1.00); font-size: 0.4em; position: absolute; right: -45px; top: 8px;">中文</a>
-          {% elsif site.lang == "cn" %}
+          {% else %}
           <a href="/en" style="text-decoration: none; border-radius: 9999px; padding: 0.2em 0.8em; text-align: center; color: white; background: rgba(244, 75, 40, 1.00); font-size: 0.4em; position: absolute; right: -45px; top: 8px;">English</a>
           {% endif %}
         </div>
@@ -24,15 +24,24 @@
   <div class="mobile-direction" style="text-align: left;">
     <div class="mobile-header">
       <div class="mobile-title">
-        Menu
+        <span class="ts-orange">Podfest</span> <span class="ts-navy">China</span>
       </div>
     </div>
+
     <ul style="list-style: none; margin-left: -25px;">
-      <li style="margin-bottom: 1em;"><a class="mobile-link" href="/">Home</a></li>
-      <li style="margin-bottom: 1em;"><a class="mobile-link" href="/">Schedule</a></li>
-      <li style="margin-bottom: 1em;"><a class="mobile-link" href="/">Speakers</a></li>
-      <li style="margin-bottom: 1em;"><a class="mobile-link" href="/">Photos</a></li>
-      <li style="margin-bottom: 1em;"><a class="mobile-link" href="/">Sponsors</a></li>
+      <li style="margin-bottom: 1em;"><a class="mobile-link" href="{% t nav_links.home %}">{% t navigation.home %}</a></li>
+      <li style="margin-bottom: 1em; color: white">{% t navigation.event %}</li>
+      <ul style="list-style: none;">
+        <li style="margin-bottom: 1em;"><a class="mobile-link" href="{% t nav_links.event_1 %}">{% t navigation.event_1 %}</a></li>
+        <li style="margin-bottom: 1em;"><a class="mobile-link" href="{% t nav_links.event_2 %}">{% t navigation.event_2 %}</a></li>
+      </ul>
+      <li style="margin-bottom: 1em; color: white">{% t navigation.workshop %}</li>
+      <ul style="list-style: none;">
+        <li style="margin-bottom: 1em;"><a class="mobile-link" href="{% t nav_links.workshop_1 %}">{% t navigation.workshop_1 %}</a></li>
+      </ul>
+      <li style="margin-bottom: 1em;"><a class="mobile-link" href="{% t nav_links.about %}">{% t navigation.about %}</a></li>
+      <li style="margin-bottom: 1em;"><a class="mobile-link" href="{% t nav_links.photos %}">{% t navigation.photos %}</a></li>
+      <li style="margin-bottom: 1em;"><a class="mobile-link" href="{% t nav_links.contact %}">{% t navigation.contact %}</a></li>
     </ul>
   </div>
 </div>

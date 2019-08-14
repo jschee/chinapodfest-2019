@@ -402,6 +402,9 @@ small {
 
 .throw-dat-padding {
   padding: 0 0.7em;
+  @include media(small) {
+    padding: 1em 0.7em;
+  }
 }
 
 // Home Page ——————————————————————————————— •
@@ -743,6 +746,8 @@ body.scrolled #disappear:hover {
     margin-bottom: 3em;
   }
 }
+
+
 
 // MAX-WIDTH/TEXTUAL PAGES
 .page-content--max-width {
