@@ -747,6 +747,16 @@ body.scrolled #disappear:hover {
   }
 }
 
+.article-img {
+  padding-left: 0;
+  float: center;
+
+  @include media(large){
+    padding-left: 1em;
+    float: right;
+  }
+}
+
 
 
 // MAX-WIDTH/TEXTUAL PAGES
