@@ -81,7 +81,11 @@ layout: home
         </div>
       </div>
       <div class="" style="margin: 1em 0;">
-        <a href="" class="btn-yellow-lg" style="display: flex; justify-content: center;">View all photos</a>
+        {% if site.lang == "en" %}
+        <a href="/en/photos" class="btn-yellow-lg" style="display: flex; justify-content: center;">View all photos</a>
+        {% else %}
+        <a href="/photos" class="btn-yellow-lg" style="display: flex; justify-content: center;">View all photos</a>
+        {% endif %}
       </div>
     </div>
   </section>

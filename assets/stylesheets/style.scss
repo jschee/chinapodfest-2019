@@ -687,6 +687,7 @@ body.scrolled #disappear:hover {
   -1px 1px 0 #000,
    1px 1px 0 #000;
 }
+
 .ts-orange{
   color: white;
   text-shadow:
@@ -696,6 +697,7 @@ body.scrolled #disappear:hover {
   -1px 1px 0 rgba(244, 75, 40, 1.00),
    1px 1px 0 rgba(244, 75, 40, 1.00);
 }
+
 .ts-navy{
   color: white;
   text-shadow:
@@ -705,6 +707,30 @@ body.scrolled #disappear:hover {
   -1px 1px 0 rgba(46, 52, 88, 1.00),
    1px 1px 0 rgba(46, 52, 88, 1.00);
 }
+
+.masonry {
+  column-gap: 6px;
+  column-fill: initial;
+  column-count: 3;
+  .brick {
+    background-color: #eee;
+    display: inline-block;
+    margin: 0 0 6px;
+    max-width: 100%;
+    vertical-align: top;
+    width: 400px;
+    transition: .15s ease;
+  }
+  .brick:hover {
+    opacity: .75;
+    transition: all .15s ease-in-out;
+    backface-visibility: hidden;
+  }
+  @include media(small) {
+    column-count: 2;
+  }
+}
+
 
 .cta-speakers{
   text-align: right;
