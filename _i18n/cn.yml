@@ -13,9 +13,9 @@ navigation:
 home:
   header: 第二届年度大会
   button: 敬请期待
-  section1: China's biggest podcast festival!
+  section1: “上海举办了一场名叫PodFest China的线下活动。原计划容纳150人的会场，来了200多人，几位中国和美国的播客制作者介绍了经验，还现场录制了一起播客。” ——《第一财经杂志》
   section1-2: 什么是Podfest China？
-  section1-3: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Autem a distinctio, ullam iste dolorum non incidunt assumenda laudantium vitae, dicta at cum, voluptatum tenetur, repellat fuga porro laboriosam. Eius, distinctio!
+  section1-3: PodFest China汇聚中国顶尖播客与音频制作者、发行方与听众，是中国首个以播客为主题的业界年度盛会。首届PodFest China于2019年1月在上海举行，并于2019年6月举办“PodFest China工作坊”。PodFest China致力于打造属于所有播客人与音频创作者的交流平台，为声音的魅力共襄盛举。
   section2: 相册
   section3: 合作播客
   section4: 第一届年会合作伙伴
@@ -23,11 +23,17 @@ home:
   section4-2: 媒体合作
   section5: 关注我们
 
+podfest1:
+  title: 第一届PodFest China年会
+  date: 2019年1月19日 · 上海
+  introduction: 本届年会是国内首次举办以播客为主题的业界盛会，邀请国内主流音频平台、十余位知名播客制作人和音频内容媒体人，与近200名听众共聚一堂。年会议题涉及中国播客业现状和前景、制作经验分享、音频技术交流等。
+
+
 nav_links:
   home: /
   event: /event
   event_1: /events/podfest1
-  event_2: /event-2
+  event_2: /events/podfest2
   workshop: /workshop
   workshop_1: /workshop-1
   about: /about

@@ -24,11 +24,16 @@ home:
   section5: Follow Us
 
 
+podfest1:
+  title:
+  date:
+  introduction:
+
 nav_links:
   home: /en/
   event: /en/event
   event_1: /events/podfest1
-  event_2: /en/workshop-2
+  event_2: /events/podfest2
   workshop: /en/workshop
   workshop_1: /en/workshop-1
   about: /en/about
