@@ -5,16 +5,27 @@ menucn: "关于我们"
 layout: home
 ---
 <div class="main-content">
+  <div class="sprinkles" style="position: relative;">
+    <div style="position: absolute; top: 0; left: 0; right: 0; bottom: 0; background: rgba(30, 30, 30, 0.25); z-index: 1;">
+    </div>
+    <div style="position: relative; z-index: 4; padding: 1em 1em">
+      <h1 style="text-align: left; font-weight: 800; color: white; font-size: 3em;">
+        <div class="ts">About</div>
+        <span class="ts-orange">PODFEST</span> <span class="ts-navy">CHINA</span>
+      </h1>
+    </div>
+  </div>
   <div class="throw-dat-padding">
-    <h3 class="hide-on-large" style="border-left: 2px solid rgba(244, 75, 40, 1.00); text-align:left; padding: 0 0.8em;">
-  {% if site.lang == "en" %}{{page.menu}}{% else %}{{page.menucn}}{% endif %}</h3>
-    <section>
+
       <div>
         <div>
           <img src="/assets/images/aboutus_1.png" alt="" height="200px" style="object-fit: cover" class="article-img">
-          <p  style="text-align: left;">
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Enim voluptatibus libero eius culpa soluta a sapiente quibusdam ducimus, eos iure similique illum molestias pariatur eveniet adipisci veritatis eum cupiditate dolorem! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem nam animi maxime, odio illum at quaerat natus mollitia eos magnam, officia beatae ex, iure fugiat esse sed labore quia ipsam.
+          <p  style="text-align: left; color: rgba(253, 179, 43, 1.00); font-weight: 800">
+            {% t about.section1 %}
           </p>
+          <p style="text-align: left;">{% t about.section2 %}</p>
+          <p style="text-align: left;">{% t about.section3 %}</p>
+          <p style="text-align: left;">{% t about.section4 %}</p>
         </div>
       </div>
     </section>

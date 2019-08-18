@@ -1,8 +1,8 @@
 navigation:
   home: Home
   event: Event
-  event_1: 1st Podfest China
-  event_2: 2nd Podfest China
+  event_1: 1st PodFest China
+  event_2: 2nd PodFest China
   workshop: Workshop
   workshop_1: Workshop・2019.6
   about: About
@@ -14,7 +14,7 @@ home:
   header: The Second Annual Event
   button: Coming Soon
   section1: China's biggest podcast festival!
-  section1-2: What is Podfest China?
+  section1-2: What is PodFest China?
   section1-3: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Autem a distinctio, ullam iste dolorum non incidunt assumenda laudantium vitae, dicta at cum, voluptatum tenetur, repellat fuga porro laboriosam. Eius, distinctio!
   section2: Photos
   section3: Podcast Partners
