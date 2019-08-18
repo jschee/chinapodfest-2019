@@ -27,6 +27,18 @@ podfest1:
   title: 第一届PodFest China年会
   date: 2019年1月19日 · 上海
   introduction: 本届年会是国内首次举办以播客为主题的业界盛会，邀请国内主流音频平台、十余位知名播客制作人和音频内容媒体人，与近200名听众共聚一堂。年会议题涉及中国播客业现状和前景、制作经验分享、音频技术交流等。
+  speakers:
+    tom: 播客《Digitally China》主持、连续创业者
+    jennifer: 美国公共媒体驻中国记者
+    eric: 《中非项目》主编
+    phoebe: 都柏林圣三一大学声音工程研究员
+    zhangpin: 播客《声东击西》联合创始人、主持
+    clara: 故事讲述线下活动Unravel创始人
+    sarah: 故事讲述线下活动Unravel创始人
+    kouai: 播客《故事FM》创始人、主持
+    shannon: 音频托管服务Podbean传讯总监
+    yangyi: 《播客一下》主编、《忽左忽右》主持
+    lynn: 原喜马拉雅FM国际部运营经理
 
 
 nav_links:
