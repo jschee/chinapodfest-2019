@@ -13,7 +13,8 @@ navigation:
 home:
   header: 中国播客圈的盛会
   button: 敬请期待
-  section1: “上海举办了一场名叫PodFest China的线下活动。原计划容纳150人的会场，来了200多人，几位中国和美国的播客制作者介绍了经验，还现场录制了一起播客。” ——《第一财经杂志》
+  section1: 上海举办了一场名叫PodFest China的线下活动。原计划容纳150人的会场，来了200多人，几位中国和美国的播客制作者介绍了经验，还现场录制了一起播客。
+  section1-1: ——《第一财经杂志》
   section1-2: 什么是Podfest China？
   section1-3: PodFest China汇聚中国顶尖播客与音频制作者、发行方与听众，是中国首个以播客为主题的业界年度盛会。首届PodFest China于2019年1月在上海举行，并于2019年6月举办“PodFest China工作坊”。PodFest China致力于打造属于所有播客人与音频创作者的交流平台，为声音的魅力共襄盛举。
   section2: 相册
@@ -22,6 +23,8 @@ home:
   section4-1: 赞助商
   section4-2: 媒体合作
   section5: 关注我们
+  hype1: 准备好了么？
+  hype2: 第二届Podfest China马上来了！
 
 podfest1:
   title: 第一届PodFest China年会
@@ -39,6 +42,9 @@ podfest1:
     shannon: 音频托管服务Podbean传讯总监
     yangyi: 《播客一下》主编、《忽左忽右》主持
     lynn: 原喜马拉雅FM国际部运营经理
+
+workshop1:
+  title: Podcasting Workshop · 2019.6
 
 about:
   section1: 汇聚中国顶尖播客与音频内容制作者、发行方与播客爱好者
@@ -66,7 +72,7 @@ nav_links:
   event_1: /events/podfest1
   event_2: /events/podfest2
   workshop: /workshop
-  workshop_1: /workshop-1
+  workshop_1: /workshop/2019-06-workshop
   about: /about
   photos: /photos
   register: /register

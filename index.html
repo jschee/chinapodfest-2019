@@ -21,13 +21,28 @@ layout: home
   <section class="throw-dat-padding" id="introduction">
     <div class="menu-2up">
       <div class="column-left" style="text-align: left">
-        <h2 style="font-weight: 800;">{% t home.section1 %}</h2>
+        <div style="background:rgba(244, 75, 40, 1.00); padding: 1.5em; margin-bottom: 1em; border-radius: 55px; color: white;">
+          <h2 style="font-weight: 800;">“{% t home.section1 %}”</h2>
+          <div style="font-style: italic;">{% t home.section1-1 %}</div>
+        </div>
       </div>
       <div class="column-right">
         <h2 class="pomegranate" style="text-align: center;">{% t home.section1-2 %}</h2>
         <p style="text-align: left">{% t home.section1-3 %}</p>
       </div>
     </div>
+  </section>
+  <section id="podfest2" style="margin-bottom: 2em;">
+
+    <article class="sprinkles" style="padding: 1em;">
+      <div style="display: flex; justify-content: flex-end; align-items: flex-start; margin: 0.3em 0.3em 0 0;">
+        <div style="background: rgba(243, 243, 233, 1.00); padding: 0.5em 0.5em 0.5em 1em; text-align: right; width: 50%;">
+          <div class="ts">{% t home.hype1 %}</div>
+          <span>{% t home.hype2 %}</span>
+        </div>
+      </div>
+    </article>
+
   </section>
   <section id="speakers" style="background: rgba(242, 247, 249, 1.00); padding: 1em 0;">
     <div class="throw-dat-padding">
@@ -89,6 +104,7 @@ layout: home
       </div>
     </div>
   </section>
+
   <div class="throw-dat-padding" style="padding: 2em 1em;">
     <section id="podcasts">
       <div style="padding: 2em 0;">

@@ -13,7 +13,8 @@ navigation:
 home:
   header: China’s Premier Podcasting Conference/Event
   button: Coming Soon
-  section1: 200 people attended Shanghai’s PodFest China event, held in a space meant for 150 people. American and Chinese podcast creators shared their experiences and there was even a live recording of a podcast. China Business Network
+  section1: 200 people attended Shanghai’s PodFest China event, held in a space meant for 150 people. American and Chinese podcast creators shared their experiences and there was even a live recording of a podcast.
+  section1-1: China Business Network
   section1-2: What is PodFest China?
   section1-3: PodFest China is China’s first annual podfest-themed event, bringing together China’s top podcast and audio creators and producers, publishers and fans. The first PodFest China was held in Shanghai in January 2019 and a podcasting workshop was held in June 2019. PodFest China is an engaging audio-focused event committed to creating a networking and resource-sharing platform for all podcast and audio creators.
   section2: Photos
@@ -22,6 +23,8 @@ home:
   section4-1: Presenting Sponsors
   section4-2: Media Partners
   section5: Follow Us
+  hype1: Get ready!
+  hype2: The 2nd PodFest China is coming soon.
 
 
 podfest1:
@@ -40,20 +43,22 @@ podfest1:
     yangyi: Editor, Newsletter Just Pod & Co-host, Podcast Left Right
     lynn: Operation Manager, Himalaya FM International (formerly)
 
+workshop1:
+  title: Podcasting Workshop · 2019.6
+
 about:
   section1: Bringing together China’s top podcast creators, platforms and fans.
   section2: The first annual PodFest China conference, held in Shanghai in January 2019, gathered nearly 200 podcast producers, audio technicians, podcast sharing communities, distribution platforms, and podcast listeners. At the day-long bilingual event, partipants exchanged new ideas, introduced podcasts, and discussed industry developments and prospects, along with networking, performances, and live podcast recordings to create a dynamic and creative meeting place for the latest ideas in podcasting.
   section3: In June 2019, PodFest China launched the “PodFest China Workshop” series to provide a regular content sharing and communication platform for the Chinese podcast community.
-  section4:
+
   section5:
     title: Who attends？
-    point1: Audio Content Creators
+    point1: Audio content creators
     point2: Audio technicians
     point3: Audio sharing communities
     point4: Audio platforms
     point5: Podcast industry analysts
     point6: Other audio creators
-    point7: Other audio creators
   section6:
     title: Join us & get involved
     email1: For volunteers – Do you love podcasting and audio creation and want to help us build a community for podcasting in China? Tell us about yourself, how you heard about PodFest China, and your favorite podcasts.
@@ -66,7 +71,7 @@ nav_links:
   event_1: /en/events/podfest1
   event_2: /en/events/podfest2
   workshop: /en/workshop
-  workshop_1: /en/workshop-1
+  workshop_1: /en/workshop/2019-06-workshop
   about: /en/about
   photos: /en/photos
   register: /en/register
