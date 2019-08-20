@@ -20,7 +20,7 @@ home:
   section2: 相册
   section3: 合作播客
   section4: 第一届年会合作伙伴
-  section4-1: 赞助商
+  section4-1: 第一届年会赞助商
   section4-2: 媒体合作
   section5: 关注我们
   hype1: 准备好了么？
@@ -50,7 +50,8 @@ about:
   section1: 汇聚中国顶尖播客与音频内容制作者、发行方与播客爱好者
   section2: PodFest China由一群播客爱好者创办，我们的初衷是提供一个开放式的平台，邀请优质音频内容创作者聚集一堂，通过知识和技能共享，来提高中国播客的制作水平、推动高质量音频内容和播客文化在中国的发展。
   section3: 2019年6月，PodFest China推出“PodFest China工作坊”品牌和系列活动，为中国的播客社群提供定期的内容分享与交流平台。
-  section4: 敬请留意本网站，以及 @podfestchina（Twitter）、@podfestchina（微博），了解PodFest China的拓展计划和最新进展。
+  section4: |
+    敬请留意本网站，以及 <a href="https://twitter.com/podfestchina">@podfestchina</a>（Twitter）、<a href="https://weibo.com/podfestchina">@podfestchina</a>（微博），了解PodFest China的拓展计划和最新进展。
   section5:
     title: 谁来参与？
     point1: 音频内容制作人
