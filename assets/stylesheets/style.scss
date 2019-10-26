@@ -814,10 +814,19 @@ body.scrolled #disappear:hover {
 .article-img {
   padding-left: 0;
   float: center;
-
-  @include media(large){
+  @include media(large) {
     padding-left: 1em;
     float: right;
+  }
+  @include media(small) {
+    width: 100%;
+  }
+}
+
+.schedule-img {
+  width: 50%;
+  @include media(small) {
+    width: 100%;
   }
 }
 
