@@ -53,45 +53,45 @@ podfest2:
   introduction: 本届年会即将于11月9日在上海举行，主题为“2019，中文播客新起点”。在国内首次邀请美国知名叙事类广播节目"This American Life"制作人，与十余位国内知名播客节目制作人、音频产品项目负责人、音频平台代表、播客初创企业创始人、知名视听产品制作机构负责人、VC投资人等，就叙事类播客制作、播客商业化与产品开发探索、中文播客未来发展趋势等话题展开广泛讨论。
   speakers:
     part_1:
-      title: 环节1：叙事播客的艺术
+      title: Session 1：Storytelling Craft
       emanualle: Producer, This American Life
       emanualle_info: Emanuele Berry is a producer with 'This American Life', a popular weekly journalistic non-fiction podcast with 2.5 million listeners and a regular radio audience throughout the US and internationally. Emanuele got her start in reporting at St. Louis Public Radio before moving on to reporting and producing at 'Undone', 'StartUp', and 'The Nod' podcasts, from Gimlet Media. She joined 'This American Life' earlier this year.
-      peng: 《故事FM》声音设计
-      peng_info: 彭寒，四川籍音乐人，《故事FM》声音设计兼商务创意负责人。在超过200期的《故事FM》节目制作中，彭寒一直在尝试将原创音乐、亲历者自述和生活里真实的声音有序地结合，探索声音与真实故事更多有趣的可能性。
-      clara: “Unravel Storytelling”创始人 主持人
-      clara_info: Clara Davis是叙事平台“Unravel”的创办者。“Unravel”诞生于上海，每月出品一期现场叙事类型的播客节目，并与企业、学校等机构有着工作坊和其他类型的项目合作。Clara具有伦敦政经学院和复旦大学的国际媒体和传播专业的双硕士学位。她还是专注餐饮的营销和创意机构Taste Collective的联合创始人。
-      sarah: “Unravel Storytelling”制作人 编辑
-      sarah_info: Sarah Boorboor是一名自由制作人、撰稿人和编辑，并获有匹兹堡大学的非虚构写作学位。她曾是SmartShanghai的生活方式编辑，专注于社群、文化、健康等领域的报道。Sarah如今是Unravel的资深制作人，负责现场叙事活动、工作坊和原创内容的编排，她也是“Unravel”播客的首席制作人和编辑。
-      cao: 《PageSeven》创办人、制作人
-      cao_info: 曹容千，现为独立音乐制作人、纪录片制作人，于2012年创办中国最早的“声音纪录片”播客"PageSeven"。曾任省级广电文化体育传媒集团首席内容官、网络科技公司CEO、德国之声中文部记者及主持人；具有语言学、传播学、通信工程等综合学术背景。
+      peng: Sound Designer, GushiFM
+      peng_info: Han is the Sound Designer of the popular Chinese storytelling podcast 'GushiFM'. For over 200 episodes, Han has woven together interviews, field recordings and original music compositions, to make every episode a "sound film" for listeners.
+      clara: Founder / Host, Unravel Storytelling
+      clara_info: Clara Davis is the founder of Unravel, a Shanghai-born storytelling platform that produces monthly, curated live shows in addition to workshops and special projects with partnering companies, schools, and organizations. She completed a dual degree master’s program with The London School of Economics and Fudan University in Global Media & Communications, and is also the co-founder of food and beverage marketing & creative agency Taste Collective.
+      sarah: Executive Producer / Editor, Unravel Storytelling
+      sarah_info: Sarah Boorboor is a freelance producer, writer, and editor with a degree in Non-Fiction Writing from the University of Pittsburgh. She worked as a Lifestyle Editor at SmartShanghai focused on community, culture, health, and more. Now the Senior Producer of Unravel, she helps curate live shows, workshops, and original content - including serving as head producer / editor of its podcast.
+      cao: Founder / Producer, PageSeven
+      cao_info: Cao Rongqian is an independent music producer and documentary filmmaker. He founded  China's first audio documentary podcast 'PageSeven' in 2012. He has served as Chief Content Officer of a provincial level media group in China, and Reporter for Deutsche Welle Chinese Service in Germany. His academic background is in linguistics, communication and communication engineering.
     part_2:
-      title: 环节2：播客，不止是制作
-      wang: 轻芒联合创始人 CEO
-      wang_info: 在创立轻芒之前，王俊煜是中国最受欢迎的安卓应用商店“豌豆荚”的联合创始人兼首席执行官。轻芒的愿景是连接高品质内容和内容消费者，并为他们提供发现、阅读、交流、积累和创作的工具。目前，轻芒正基于现有的两款产品——“轻芒小程序+”和“轻芒杂志”着力为播客创作者和听众创造更好的播客消费和分享体验。
-      yan: JustPod联合创始人 CEO
-      yan_info: 程衍樑是数字音频公司JustPod联合创始人、CEO，播客《忽左忽右》主理，参与制作品牌播客《创业内幕》、《贝望录》、《转折点》等。曾为界面新闻创始团队成员。
-      sophie: Himalaya Media内容总监
-      sophie_info: Sophie是Himalaya Media内容总监。Himalaya是一家中国的播客平台与原创内容制作公司，全力打造覆盖全球市场的音频内容生态。Sophie还曾担任上海东方广播主持人、喜马拉雅FM制作人。
-      ning: ONES Ventures管理合伙人
-      ning_info: 任宁是风险基金ONES Ventures管理合伙人，也是播客《迟早更新》主播。ONES Ventures 2018年8月完成对播客《大内密谈》的百万级天使轮融资。任宁希望通过资本分配和内容创作，将世界往自己期待的方向推进，哪怕只有一点点。
-      joshua: 《西方生活通行证》制作人
-      joshua_info: 周树华，来自美国、现居中国。他是嘭哒文化联合创始人，也是一位畅销作者，曾担任广告公司高级总监。他主持的《西方生活通行证》是一档专门为在西方生活的华人定制的节目。2019年7月正式在Himalaya上线。
+      title: Session 2：Podcasting Beyond Production
+      wang: Co-founder and CEO, Qingmang
+      wang_info: Prior to Qingmang, Junyun was the co-founder and CEO of Wandoujia, one of the most popular Android app stores in China. Qingmang’s vision is to connect high-quality content with consumers through providing consumers easy-to-use tools to discover, read, communicate and create. Currently, Qingmang is focusing on building a better podcast listening and sharing experience through its products, including the mini WeChat program “Qingmang+” and standalone app “Qingmang Magazine."
+      yan: Co-founder and CEO, JustPod
+      yan_info: Yanliang Cheng is the co-founder and CEO of JustPod, a digital audio company in China. He is also the co-host of podcast 'LeftRight', and producer of branded podcasts 'Startup Insider', 'Bessie's Notes' and 'Turning Point'. Prior to JustPod, he was a member of the founding crew of Jiemian News, a Chinese business news website.
+      sophie: Director of Content and Partnership, Himalaya Media
+      sophie_info: Sophie is the Director of Content and Partnership of Himalaya Media, a podcast platform, audio content network and original production studio. Previously, Sophie was the host of Shanghai East Radio and Producer of Ximalaya FM.
+      ning: Managing Partner, ONES Ventures
+      ning_info: Ning Ren is the managing partner at angel fund ONES Ventures, and the co-host of podcast 'Chizaogengxin'. In August 2018, ONES Ventures completed a million-yuan angel round of financing for the podcast 'MidnightTalks'. Ning hopes that through capital allocation and content creation, he can make some positive impact on the world, even if only a little.
+      joshua: Host, Passport to the West
+      joshua_info: Joshua Ogden-Davis is American podcaster living in China. He is the co-founder of Pandapals Culture and a bestselling author of "Making Friends with Foreigners." His podcast 'Passport to the West' was launched in July 2019 on Himalaya and is created for Chinese living abroad.
     part_3:
-      title: 环节3：从「业余」走向「专业」
-      sun: 看理想内容总监
-      sun_info: 孙瑞岑长期从事图书、音频、视频内容的制作与传播。 “看理想”从2017年开始介入音频领域，现已推出各类节目60余档。
-      tao: 声动活泼传媒联合创始人
-      tao_info: 徐涛拥有超过十年的商业记者和多档播客制作经验。她也是播客制作公司「声动活泼传媒」的创始人。她于2012开始在纽约担任驻海外记者，后于2013搬至旧金山报道科技产业与创新经济。她曾先后是《第一财经周刊》助理总编辑和36氪海外内容总监。她现主要制作三档节目，《声东击西》《到海外去》及《硅谷早知道》。
-      peng_2: 《车间访谈》策划、主持
-      peng_2_info: 朋克曾在美国从事新闻制作人，回国后在《吐槽大会》、《脱口秀大会》等脱口秀综艺担任导演。现在在研发新节目之外，同时担任喜剧演员访谈节目《车间访谈》的策划兼主持。
-      qi: 《无业游民》主持
-      qi_info: 戚振宇是播客《无业游民》主播，这是一档讨论当代青年共同关心话题的播客节目。他常居香港，有着超过七年的媒体从业经验，目前是全球深度报道网中文编辑，曾任端传媒副总编辑。
+      title: Session 3：From Hobby to Pro
+      sun: Chief Content Officer, Vistopia
+      sun_info: Ruicen has long been engaged in the production and dissemination of books, audio and video content. Vistopia has been involved in the audio field since 2017, and has now launched more than 60 programs of various contents.
+      tao: Co-founder, ShengFM
+      tao_info: A seasoned reporter and an experienced podcaster, Tao is the founder of ShengFM, a podcast production company focusing on business topics. Tao has been covering tech, innovation and related topics in the US since 2012. She has worked as Editorial Director and Senior Editor at 36Kr.com and as a founding member and Associate Chief Editor at CBNweekly. Tao currently produces three iconic podcasts, 'ETWFM', 'Go Chuhai', and 'Silicon Valley Frontier'.
+      peng_2: Host, Fun Factory Talk
+      peng_2_info: Pengke was formerly an international news producer in Washington, D.C. After returning to China, she worked on several stand-up comedy shows including 'Celebrity Roast' and 'Rock and Roast'. Aside from developing new variety shows, she hosts 'Fun Factory Talk', a recorded talk show where comedians gather to complain about everything in front of a live audience.
+      qi: Host, The Unemployable
+      qi_info: Zhenyu is the host of 'The Unemployable', a podcast focusing on issues of common concern to Chinese youth. Based in Hong Kong and with 7 years journalism experience, he is the Chinese Editor of Global Investigative Journalism Network and formerly worked as Deputy Editor-in-Chief for Initium Media.
     part_4:
-      title: 工作坊
+      title: Workshop
       emanualle: “This American Life”制作人
       peng: 《故事FM》声音设计
-      shannon: Podbean传讯总监
-      shannon_info: 周树华，来自美国、现居中国。他是嘭哒文化联合创始人，也是一位畅销作者，曾担任广告公司高级总监。他主持的《西方生活通行证》是一档专门为在西方生活的华人定制的节目。2019年7月正式在Himalaya上线。
+      shannon: Director of Communications, Podbean
+      shannon_info: Shannon Martin is Podbean’s Director of Communications, serving as a liaison to the podcasting community. Podbean has been providing innovative podcasting services as an industry leader since 2006. Along with their popular podcast app and hosting services, Podbean offers monetization tools and a new audio live streaming platform. Shannon has been working in marketing and communications for over 15 years, helping businesses communicate their messages and build community.  She is a long-time podcast fan and founded Shanghai’s chapter of Podcast Brunch Club.
       cao: 《PageSeven》创办人、制作人
 
 
