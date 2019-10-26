@@ -833,7 +833,8 @@ body.scrolled #disappear:hover {
 
 .content:hover .content-overlay{
   display: block;
-  position: absolute; top: 0; left: 0; right: 0; bottom: 8px; min-width: 100%; background: rgba(237, 50, 30, 0.5); color: white; font-size: 0.64em; z-index: 1; text-align: left;
+  padding-bottom: 10px;
+  position: absolute; top: 0; left: 0; right: 0; bottom: 8px; min-width: 100%; background: rgba(237, 50, 30, 0.75); color: white; font-size: 0.615em; z-index: 1; text-align: left;
 }
 
 .content .content-overlay{
