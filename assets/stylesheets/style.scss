@@ -831,6 +831,14 @@ body.scrolled #disappear:hover {
   z-index: 1
 }
 
+.content:hover .content-overlay{
+  display: block;
+  position: absolute; top: 0; left: 0; right: 0; bottom: 8px; min-width: 100%; background: rgba(237, 50, 30, 0.5); color: white; font-size: 0.5em; z-index: 1;
+}
+
+.content .content-overlay{
+  display: none;
+}
 
 
 // MAX-WIDTH/TEXTUAL PAGES
