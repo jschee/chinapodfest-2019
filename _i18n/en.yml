@@ -12,6 +12,7 @@ navigation:
 
 home:
   header: China’s Premier Podcasting Conference/Event
+  header_bigtext: 2nd Annual PodFest China
   button: Coming Soon
   section1: 200 people attended Shanghai’s PodFest China event, held in a space meant for 150 people. American and Chinese podcast creators shared their experiences and there was even a live recording of a podcast.
   section1-1: China Business Network
@@ -43,6 +44,42 @@ podfest1:
     shannon: Director of Communications, PodBean
     yangyi: Editor, Newsletter Just Pod & Co-host, Podcast Left Right
     lynn: Operation Manager, Himalaya FM International (formerly)
+
+
+podfest2:
+  title: 2nd PodFest China
+  date: Shanghai, Nov 11th 2019
+  introduction: 本届年会即将于11月9日在上海举行，主题为“2019，中文播客新起点”。在国内首次邀请美国知名叙事类广播节目"This American Life"制作人，与十余位国内知名播客节目制作人、音频产品项目负责人、音频平台代表、播客初创企业创始人、知名视听产品制作机构负责人、VC投资人等，就叙事类播客制作、播客商业化与产品开发探索、中文播客未来发展趋势等话题展开广泛讨论。
+  speakers:
+    part_1:
+      title: 环节1：叙事播客的艺术
+      emanualle: “This American Life”制作人
+      peng: 《故事FM》声音设计
+      clara: “Unravel Storytelling”创始人 主持人
+      sarah: “Unravel Storytelling”制作人 编辑
+      cao: 《PageSeven》创办人、制作人
+    part_2:
+      title: 环节2：播客，不止是制作
+      yan: JustPod联合创始人 CEO
+      sophie: Himalaya Media内容总监
+      ning: ONES Ventures管理合伙人
+      shannon: 音频托管服务Podbean传讯总监
+      yangyi: 《播客一下》主编、《忽左忽右》主持
+      joshua: 《西方生活通行证》制作人
+    part_3:
+      title: 环节3：从「业余」走向「专业」
+      sun: 看理想内容总监
+      tao: 声动活泼传媒联合创始人
+      peng_2: 《车间访谈》策划、主持
+      qi: 《无业游民》主持
+    part_4:
+      title: 工作坊
+      emanualle: “This American Life”制作人
+      peng: 《故事FM》声音设计
+      shannon: Podbean传讯总监
+      cao: 《PageSeven》创办人、制作人
+
+
 
 workshop1:
   title: Podcasting Workshop · 2019.6
