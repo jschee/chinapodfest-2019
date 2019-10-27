@@ -11,7 +11,7 @@ navigation:
   contact: Contact
 
 home:
-  header: China’s Premier Podcasting Conference/Event
+  header: November 9th, 2019
   header_bigtext: 2nd PodFest China
   button: Register
   section1: 200 people attended Shanghai’s PodFest China event, held in a space meant for 150 people. American and Chinese podcast creators shared their experiences and there was even a live recording of a podcast.
@@ -48,8 +48,8 @@ podfest1:
 
 
 podfest2:
-  title: 第二届PodFest China年会
-  date: 2019年11月9日 · 上海
+  title: 2nd PodFest China
+  date: Shanghai, Nov 9th 2019
   introduction: 本届年会即将于11月9日在上海举行，主题为“2019，中文播客新起点”。在国内首次邀请美国知名叙事类广播节目"This American Life"制作人，与十余位国内知名播客节目制作人、音频产品项目负责人、音频平台代表、播客初创企业创始人、知名视听产品制作机构负责人、VC投资人等，就叙事类播客制作、播客商业化与产品开发探索、中文播客未来发展趋势等话题展开广泛讨论。
   speakers:
     part_1:
@@ -105,7 +105,7 @@ about:
   section2: The first annual PodFest China conference, held in Shanghai in January 2019, gathered nearly 200 podcast producers, audio technicians, podcast sharing communities, distribution platforms, and podcast listeners. At the day-long bilingual event, partipants exchanged new ideas, introduced podcasts, and discussed industry developments and prospects, along with networking, performances, and live podcast recordings to create a dynamic and creative meeting place for the latest ideas in podcasting.
   section3: In June 2019, PodFest China launched the “PodFest China Workshop” series to provide a regular content sharing and communication platform for the Chinese podcast community.
   section4: |
-    敬请留意本网站，以及官方 <a href="https://twitter.com/podfestchina">Twitter</a>、<a href="https://weibo.com/podfestchina">微博</a>，了解PodFest China的拓展计划和最新进展。
+    Follow us on <a href="https://twitter.com/podfestchina">Twitter</a> or <a href="https://weibo.com/podfestchina">Weibo</a>, for the most updated news on PodFest China.
   section5:
     title: Who attends？
     point1: Audio content creators
@@ -114,7 +114,7 @@ about:
     point4: Audio platforms
     point5: Podcast industry analysts
     point6: Other audio creators
-    point7: 听众与粉丝
+    point7: General audience & fans
   section6:
     title: Join us & get involved
     email1: For volunteers – Do you love podcasting and audio creation and want to help us build a community for podcasting in China? Tell us about yourself, how you heard about PodFest China, and your favorite podcasts.
