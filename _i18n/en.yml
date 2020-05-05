@@ -3,6 +3,7 @@ navigation:
   event: Event
   event_1: 1st PodFest China
   event_2: 2nd PodFest China
+  survey: Survey
   workshop: Workshop
   workshop_1: Workshop・2019.6
   about: About
@@ -11,8 +12,8 @@ navigation:
   contact: Contact
 
 home:
-  header: November 9th, 2019 - Shanghai
-  header_bigtext: 2nd PodFest China
+  header: 2020 Survey
+  header_bigtext: A Look at Chinese Podcast Listeners
   button: Register
   section1: 200 people attended Shanghai’s PodFest China event, held in a space meant for 150 people. American and Chinese podcast creators shared their experiences and there was even a live recording of a podcast.
   section1-1: China Business Network
@@ -132,4 +133,4 @@ nav_links:
   photos: /en/photos
   register: /en/register
   contact: /en/contact
-
+  survey: /en/survey

@@ -3,6 +3,7 @@ navigation:
   event: 年度大会
   event_1: 第一届Podfest China
   event_2: 第二届Podfest China
+  survey: 播客听众与消费调研
   workshop: 工作坊
   workshop_1: Workshop・2019.6
   about: 关于我们
@@ -11,8 +12,8 @@ navigation:
   contact: 联系我们
 
 home:
-  header: 2019年11月9日·上海
-  header_bigtext: 第二届PodFest China
+  header: 2020年5月6日发布
+  header_bigtext: 2020中文播客听众与消费调研
   button: 马上报名
   section1: 上海举办了一场名叫PodFest China的线下活动。原计划容纳150人的会场，来了200多人，几位中国和美国的播客制作者介绍了经验，还现场录制了一起播客。
   section1-1: ——《第一财经杂志》
@@ -127,3 +128,4 @@ nav_links:
   photos: /photos
   register: /register
   contact: /contact
+  survey: /survey
