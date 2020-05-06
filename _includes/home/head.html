@@ -5,7 +5,13 @@
   <!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><!-- <html class="no-js" lang="en"> --><!--<![endif]-->
   <head>
 
-    <title>{{ page.title }}</title>
+    <title>
+      {%if site.lang == 'cn'%}
+      {{ page.title }}
+      {%else%}
+      {{page.title_en}}
+      {%endif}
+    </title>
     <meta name="title" content="{{ page.title }}">
     <meta name="description" content='{{ page.title | "China Podfest 2019 – Shanghai, China"}}'>
     <meta name="keywords" content="China Podfest 2019 Shanghai China Podcast" />
