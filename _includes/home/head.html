@@ -6,10 +6,10 @@
   <head>
 
     <title>
-      {%if site.lang == 'cn'%}
-      {{ page.title }}
-      {%else%}
+      {%if site.lang == 'en'%}
       {{ page.title_en }}
+      {%else%}
+      {{ page.title }}
       {%endif%}
     </title>
     <meta name="title" content="{{ page.title }}">
@@ -21,14 +21,14 @@
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://podfestchina.com{{ page.url }}">
     <meta property="og:title" content="{{ page.title }}">
-    <meta property="og:description" content='{{ page.title | "China Podfest 2019 – Shanghai, China" }}'>
+    <meta property="og:description" content='{{ page.title | "China Podfest 2020 – Shanghai, China" }}'>
     <meta property="og:image" content="https://podfestchina.com/assets/images/podfest2/intro_image_2.jpg">
 
     <!-- twitter -->
     <meta property="twitter:card" content="summary_large_image">
     <meta property="twitter:url" content="https://podfestchina.com{{ page.url }}">
     <meta property="twitter:title" content="{{ page.title }}">
-    <meta property="twitter:description" content='{{ page.title | "China Podfest 2019 – Shanghai, China" }}'>
+    <meta property="twitter:description" content='{{ page.title | "China Podfest 2020 – Shanghai, China" }}'>
     <meta property="twitter:image" content="https://podfestchina.com/assets/images/podfest2/intro_image_2.jpg">
 
 
